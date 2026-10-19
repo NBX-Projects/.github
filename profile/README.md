@@ -7,9 +7,9 @@
 
   [![Micco Release](https://img.shields.io/github/v/release/NBX-Projects/Micco?style=for-the-badge&color=22c55e&label=Micco)](https://github.com/NBX-Projects/Micco/releases/latest)
   [![Plataformas](https://img.shields.io/badge/Plataformas-Windows%20%7C%20Linux%20%7C%20Android%20%7C%20Web-6366f1?style=for-the-badge)](https://github.com/NBX-Projects/Micco)
-  [![Brand Hub](https://img.shields.io/badge/Brand%20Hub-Design%20System-302B28?style=for-the-badge)](https://nbx-projects.github.io/brand-identity/)
+  [![Brand Hub](https://img.shields.io/badge/Brand%20Hub-Design%20System-302B28?style=for-the-badge)](https://nbx-projects.github.io/brand)
 
-  [🌐 Acessar Micco Web](https://www.micco.app.br/app/) • [📦 Downloads Oficiais](https://github.com/NBX-Projects/Micco/releases/latest) • [🎨 Central de Marca](https://nbx-projects.github.io/brand-identity/)
+  [🌐 Acessar Micco Web](https://www.micco.app.br/app/) • [📦 Downloads Oficiais](https://github.com/NBX-Projects/Micco/releases/latest) • [🎨 Central de Marca](https://nbx-projects.github.io/brand)
 
 </div>
 
